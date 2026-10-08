@@ -22,6 +22,10 @@ Keep this project under `MyEffects/<Effect>` in the Adobe After Effects SDK 2025
 
 Adobe SDK files and generated binaries are not included in the source repository.
 
+## Third-party notices
+
+See [THIRD_PARTY.md](THIRD_PARTY.md) for the pinned JUCE dependency, licensing, and source setup.
+
 ## Installation
 
 Download the `.aex` package from GitHub Releases, place it in an After Effects plug-ins folder, and restart After Effects. Install PixSpectraEngine.dll beside the AEX file.
