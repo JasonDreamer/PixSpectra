@@ -1,0 +1,5 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!-- This is an in-process support DLL, not an AE effect project. Preserve CMake's
+       compiler probe and library output paths. Win/PixSpectra.vcxproj still uses
+       the workspace Directory.Build.targets to deploy the .aex. -->
+</Project>
